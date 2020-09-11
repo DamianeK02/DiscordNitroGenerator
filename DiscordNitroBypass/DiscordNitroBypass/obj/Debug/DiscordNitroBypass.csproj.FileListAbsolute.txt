@@ -1,0 +1,10 @@
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.exe.config
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.exe
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\bin\Debug\DiscordNitroBypass.pdb
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.Form1.resources
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.exe
+C:\Users\LAPTOP\source\repos\DiscordNitroBypass\DiscordNitroBypass\obj\Debug\DiscordNitroBypass.pdb
